@@ -1,0 +1,6 @@
+streamlit>=1.37
+sqlalchemy==2.0.35
+numpy==1.26.4
+apscheduler==3.10.4
+pandas
+altair
